@@ -1,0 +1,3 @@
+Number of Qubits: 3
+Quantum Gates: Hadamard
+Simulator Backend: QASM Simulator
